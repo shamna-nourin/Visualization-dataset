@@ -1,0 +1,21 @@
+Product ID,Product Name,Category,Region,Sales
+P001,Chair,Furniture,North,120
+P002,Chair,Furniture,NORTH,130
+P003,Table,Furniture,South,450
+P004,Table,Furniture,South,470
+P005,Sofa,Furniture,East,900
+P006,Couch,Furniture,East,880
+P007,Recliner,Furniture,West,760
+P008,Desk,Office Supplies,West,230
+P009,Desk Table,Office Supplies,north,250
+P010,Notebook,Office Supplies,South,25
+P011,Note Book,Office Supplies,EAST,30
+P012,Pen,Office Supplies,west,10
+P013,Ball Pen,Office Supplies,South,12
+P014,Pencil,Office Supplies,North,8
+P015,Laptop,Electronics,East,1500
+P016,Laptop Pro,Electronics,West,1700
+P017,Mobile,Electronics,South,900
+P018,Smartphone,Electronics,East,950
+P019,TV,Electronics,NORTH,2000
+P020,Television,Electronics,south,2100
