@@ -1,0 +1,201 @@
+Order ID,Order Date,State,Region,Sales
+O-1000,2024-04-12,Texas,Central,1176
+O-1001,2024-12-14,Florida,South,1269
+O-1002,2024-09-27,California,West,823
+O-1003,2024-04-16,Illinois,Central,926
+O-1004,2024-03-12,California,West,1041
+O-1005,2024-07-07,Georgia,South,933
+O-1006,2024-01-21,California,West,1423
+O-1007,2024-04-12,California,West,96
+O-1008,2024-05-01,Texas,Central,916
+O-1009,2024-08-02,Texas,Central,872
+O-1010,2024-11-26,Pennsylvania,East,985
+O-1011,2024-03-28,Ohio,Central,1893
+O-1012,2024-04-09,Illinois,Central,705
+O-1013,2024-12-25,California,West,318
+O-1014,2024-05-31,California,West,419
+O-1015,2024-05-10,Florida,South,685
+O-1016,2024-05-29,Texas,Central,1179
+O-1017,2024-11-04,Illinois,Central,1743
+O-1018,2024-09-14,Michigan,Central,1732
+O-1019,2024-12-09,Pennsylvania,East,706
+O-1020,2024-10-20,Ohio,Central,169
+O-1021,2024-07-10,New York,East,880
+O-1022,2024-10-03,Ohio,Central,1860
+O-1023,2024-06-09,Georgia,South,1677
+O-1024,2024-11-09,California,West,1131
+O-1025,2024-01-22,Pennsylvania,East,1419
+O-1026,2024-09-09,Georgia,South,790
+O-1027,2024-08-23,Illinois,Central,1547
+O-1028,2024-12-10,New York,East,166
+O-1029,2024-02-18,Texas,Central,1903
+O-1030,2024-02-28,Pennsylvania,East,840
+O-1031,2024-06-18,Pennsylvania,East,1200
+O-1032,2024-07-06,California,West,1466
+O-1033,2024-09-27,North Carolina,South,1981
+O-1034,2024-07-08,Pennsylvania,East,1062
+O-1035,2024-06-23,Florida,South,1714
+O-1036,2024-02-20,New York,East,1131
+O-1037,2024-12-29,New York,East,683
+O-1038,2024-02-24,Florida,South,562
+O-1039,2024-08-31,Michigan,Central,1824
+O-1040,2024-11-15,Florida,South,851
+O-1041,2024-05-10,Florida,South,1169
+O-1042,2024-11-02,New York,East,1711
+O-1043,2024-05-14,Ohio,Central,1191
+O-1044,2024-01-21,New York,East,609
+O-1045,2024-11-24,North Carolina,South,1674
+O-1046,2024-06-15,California,West,537
+O-1047,2024-09-30,Georgia,South,1310
+O-1048,2024-03-29,Ohio,Central,1958
+O-1049,2024-11-11,Texas,Central,946
+O-1050,2024-01-14,Georgia,South,1345
+O-1051,2024-08-29,California,West,1262
+O-1052,2024-09-21,North Carolina,South,753
+O-1053,2024-12-11,North Carolina,South,1520
+O-1054,2024-02-22,Texas,Central,630
+O-1055,2024-12-05,Ohio,Central,839
+O-1056,2024-04-01,Michigan,Central,910
+O-1057,2024-09-20,Florida,South,296
+O-1058,2024-02-04,Ohio,Central,1149
+O-1059,2024-07-24,Michigan,Central,203
+O-1060,2024-03-21,North Carolina,South,1729
+O-1061,2024-02-19,New York,East,1508
+O-1062,2024-12-25,California,West,1046
+O-1063,2024-01-02,Texas,Central,1159
+O-1064,2024-02-23,California,West,746
+O-1065,2024-04-15,Illinois,Central,1358
+O-1066,2024-09-16,Illinois,Central,1293
+O-1067,2024-11-05,Ohio,Central,1142
+O-1068,2024-07-09,North Carolina,South,1120
+O-1069,2024-08-05,North Carolina,South,1058
+O-1070,2024-02-13,Florida,South,143
+O-1071,2024-06-10,Florida,South,1823
+O-1072,2024-07-20,Florida,South,1007
+O-1073,2024-09-26,New York,East,1061
+O-1074,2024-12-16,Georgia,South,502
+O-1075,2024-10-30,Pennsylvania,East,1277
+O-1076,2024-09-27,Georgia,South,961
+O-1077,2024-08-02,California,West,267
+O-1078,2024-09-08,Georgia,South,523
+O-1079,2024-07-08,New York,East,481
+O-1080,2024-10-22,California,West,390
+O-1081,2024-07-31,Georgia,South,600
+O-1082,2024-07-26,New York,East,1685
+O-1083,2024-08-24,Pennsylvania,East,1362
+O-1084,2024-12-03,Georgia,South,1327
+O-1085,2024-02-22,New York,East,1807
+O-1086,2024-10-06,Florida,South,406
+O-1087,2024-08-04,North Carolina,South,72
+O-1088,2024-09-08,Florida,South,1835
+O-1089,2024-07-06,North Carolina,South,571
+O-1090,2024-02-10,Texas,Central,1831
+O-1091,2024-06-05,Texas,Central,1910
+O-1092,2024-01-15,Texas,Central,1173
+O-1093,2024-10-27,Pennsylvania,East,851
+O-1094,2024-03-05,Florida,South,1253
+O-1095,2024-12-10,North Carolina,South,1296
+O-1096,2024-11-22,New York,East,1979
+O-1097,2024-01-09,California,West,811
+O-1098,2024-12-09,New York,East,1732
+O-1099,2024-05-08,California,West,491
+O-1100,2024-05-15,Illinois,Central,1681
+O-1101,2024-03-03,New York,East,818
+O-1102,2024-05-18,Georgia,South,1065
+O-1103,2024-03-21,Georgia,South,1398
+O-1104,2024-06-11,Ohio,Central,565
+O-1105,2024-10-15,Florida,South,1089
+O-1106,2024-09-17,California,West,841
+O-1107,2024-08-18,California,West,385
+O-1108,2024-02-10,Florida,South,1832
+O-1109,2024-01-28,Pennsylvania,East,307
+O-1110,2024-05-14,Ohio,Central,546
+O-1111,2024-07-19,Pennsylvania,East,945
+O-1112,2024-11-23,Pennsylvania,East,209
+O-1113,2024-09-24,Pennsylvania,East,1548
+O-1114,2024-02-02,Florida,South,901
+O-1115,2024-02-17,Pennsylvania,East,1737
+O-1116,2024-03-02,Georgia,South,1981
+O-1117,2024-08-03,Texas,Central,739
+O-1118,2024-10-19,Illinois,Central,1748
+O-1119,2024-04-08,California,West,429
+O-1120,2024-06-20,California,West,1618
+O-1121,2024-12-25,Illinois,Central,1006
+O-1122,2024-08-01,Florida,South,740
+O-1123,2024-02-04,New York,East,1500
+O-1124,2024-08-14,Florida,South,1686
+O-1125,2024-04-10,California,West,1341
+O-1126,2024-05-10,California,West,1908
+O-1127,2024-09-13,Illinois,Central,1650
+O-1128,2024-01-05,Pennsylvania,East,1490
+O-1129,2024-08-05,Florida,South,1241
+O-1130,2024-09-11,North Carolina,South,1915
+O-1131,2024-12-24,Illinois,Central,1116
+O-1132,2024-10-09,Georgia,South,1629
+O-1133,2024-07-25,California,West,334
+O-1134,2024-01-15,Illinois,Central,446
+O-1135,2024-12-11,Florida,South,61
+O-1136,2024-02-11,California,West,1680
+O-1137,2024-06-27,New York,East,1375
+O-1138,2024-03-03,Illinois,Central,1971
+O-1139,2024-12-17,Ohio,Central,1326
+O-1140,2024-08-18,California,West,548
+O-1141,2024-08-28,Florida,South,803
+O-1142,2024-02-21,Texas,Central,84
+O-1143,2024-04-05,North Carolina,South,776
+O-1144,2024-08-09,Michigan,Central,898
+O-1145,2024-08-18,Pennsylvania,East,139
+O-1146,2024-08-24,Michigan,Central,825
+O-1147,2024-05-22,Florida,South,654
+O-1148,2024-06-19,Georgia,South,1995
+O-1149,2024-01-29,Georgia,South,1019
+O-1150,2024-02-05,Texas,Central,1675
+O-1151,2024-01-13,Pennsylvania,East,1071
+O-1152,2024-06-08,Ohio,Central,467
+O-1153,2024-11-22,Texas,Central,164
+O-1154,2024-07-05,Michigan,Central,666
+O-1155,2024-08-30,Texas,Central,1976
+O-1156,2024-03-26,Michigan,Central,1269
+O-1157,2024-10-10,California,West,875
+O-1158,2024-03-06,Georgia,South,1574
+O-1159,2024-06-18,California,West,1699
+O-1160,2024-02-14,North Carolina,South,1566
+O-1161,2024-03-02,Pennsylvania,East,1148
+O-1162,2024-05-13,Ohio,Central,462
+O-1163,2024-10-10,Michigan,Central,1449
+O-1164,2024-01-28,Ohio,Central,1493
+O-1165,2024-04-17,Michigan,Central,778
+O-1166,2024-02-13,Florida,South,1350
+O-1167,2024-12-05,Texas,Central,1070
+O-1168,2024-10-12,North Carolina,South,810
+O-1169,2024-11-26,Georgia,South,725
+O-1170,2024-05-07,Michigan,Central,1467
+O-1171,2024-12-13,Ohio,Central,1942
+O-1172,2024-08-18,North Carolina,South,506
+O-1173,2024-07-08,New York,East,969
+O-1174,2024-08-12,New York,East,241
+O-1175,2024-10-09,California,West,788
+O-1176,2024-04-30,Georgia,South,1762
+O-1177,2024-04-25,Florida,South,1172
+O-1178,2024-08-20,Ohio,Central,1621
+O-1179,2024-09-15,Texas,Central,1027
+O-1180,2024-12-24,Texas,Central,1058
+O-1181,2024-07-16,Ohio,Central,145
+O-1182,2024-05-16,Pennsylvania,East,1737
+O-1183,2024-11-13,Florida,South,712
+O-1184,2024-06-13,North Carolina,South,1263
+O-1185,2024-08-12,Michigan,Central,1809
+O-1186,2024-11-02,Pennsylvania,East,86
+O-1187,2024-08-21,Michigan,Central,1853
+O-1188,2024-06-20,Michigan,Central,1442
+O-1189,2024-05-31,Pennsylvania,East,1768
+O-1190,2024-11-10,California,West,1598
+O-1191,2024-06-08,New York,East,328
+O-1192,2024-04-05,Michigan,Central,266
+O-1193,2024-08-20,Pennsylvania,East,916
+O-1194,2024-06-28,Pennsylvania,East,922
+O-1195,2024-04-22,Illinois,Central,1871
+O-1196,2024-11-13,California,West,1346
+O-1197,2024-02-21,Georgia,South,1954
+O-1198,2024-09-24,Illinois,Central,111
+O-1199,2024-10-21,Illinois,Central,645
