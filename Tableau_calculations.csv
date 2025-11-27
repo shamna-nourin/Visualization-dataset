@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Customer Name,Category,Sub-Category,Product Name,Sales,Quantity,Profit,Region
+O-1001,2024-01-30,2024-02-01,David Kim,Furniture,Sofa,3-Seater Sofa,1253,3,205,West
+O-1002,2024-02-22,2024-02-23,Emily Clark,Furniture,Sofa,Recliner Sofa,700,2,189,West
+O-1003,2024-02-24,2024-02-27,Sara Thomas,Office Supplies,Stapler,Heavy Stapler,1347,1,32,East
+O-1004,2024-02-25,2024-03-01,Maria Lopez,Office Supplies,Notebook,Spiral Notebook,1257,4,120,North
+O-1005,2024-01-15,2024-01-17,Emily Clark,Office Supplies,Notebook,Spiral Notebook,368,5,203,South
+O-1006,2024-01-02,2024-01-05,Sara Thomas,Office Supplies,Notebook,Spiral Notebook,26,4,20,North
+O-1007,2024-02-06,2024-02-11,Alex Roy,Furniture,Table,Study Table,366,1,-9,East
+O-1008,2024-01-27,2024-02-01,Emily Clark,Furniture,Chair,Wooden Chair,1286,3,-20,North
+O-1009,2024-01-03,2024-01-08,Sara Thomas,Technology,Laptop,Dell Inspiron,1123,5,58,North
+O-1010,2024-01-24,2024-01-29,Alex Roy,Office Supplies,Paper,A4 Paper Ream,1336,3,-7,South
+O-1011,2024-02-23,2024-02-25,Maria Lopez,Furniture,Cabinet,File Cabinet,492,4,217,West
+O-1012,2024-02-11,2024-02-16,John Miller,Office Supplies,Paper,A4 Paper Ream,653,5,57,West
+O-1013,2024-01-29,2024-02-02,Maria Lopez,Technology,Phone,Samsung S22,567,3,157,West
+O-1014,2024-01-03,2024-01-08,Sara Thomas,Technology,Headphones,Sony WH-1000XM5,1064,4,26,West
+O-1015,2024-01-07,2024-01-10,David Kim,Office Supplies,Notebook,Spiral Notebook,1165,4,37,South
+O-1016,2024-02-13,2024-02-18,Sara Thomas,Technology,Phone,Samsung S22,187,1,71,East
+O-1017,2024-02-08,2024-02-11,Alex Roy,Furniture,Chair,Office Chair,258,5,166,North
+O-1018,2024-02-28,2024-03-04,Emily Clark,Office Supplies,Notebook,Spiral Notebook,1152,4,24,North
+O-1019,2024-02-07,2024-02-09,Alex Roy,Technology,Headphones,Sony WH-1000XM5,838,2,82,North
+O-1020,2024-01-06,2024-01-09,Maria Lopez,Office Supplies,Paper,A4 Paper Ream,737,5,228,West
+O-1021,2024-01-04,2024-01-06,David Kim,Furniture,Sofa,Recliner Sofa,1180,3,74,West
+O-1022,2024-01-23,2024-01-27,Emily Clark,Technology,Monitor,"Dell 24"" Monitor",902,3,247,North
+O-1023,2024-02-15,2024-02-19,David Kim,Office Supplies,Paper,A4 Paper Ream,475,5,159,West
+O-1024,2024-03-01,2024-03-03,Alex Roy,Technology,Headphones,Sony WH-1000XM5,1269,3,175,East
+O-1025,2024-02-23,2024-02-26,Maria Lopez,Technology,Headphones,Sony WH-1000XM5,579,4,180,West
+O-1026,2024-02-06,2024-02-10,Alex Roy,Office Supplies,Pen,Gel Pen Pack,610,2,-14,North
+O-1027,2024-01-31,2024-02-02,Alex Roy,Office Supplies,Notebook,Spiral Notebook,787,1,191,North
+O-1028,2024-02-18,2024-02-23,Sara Thomas,Furniture,Table,Office Table,797,4,-23,South
+O-1029,2024-01-09,2024-01-13,David Kim,Furniture,Table,Study Table,70,5,6,South
+O-1030,2024-01-20,2024-01-25,John Miller,Technology,Tablet,iPad Mini,1116,2,171,South
+O-1031,2024-01-19,2024-01-24,Sara Thomas,Office Supplies,Paper,A4 Paper Ream,480,5,234,West
+O-1032,2024-02-14,2024-02-18,Sara Thomas,Office Supplies,Pen,Ball Pen Pack,967,1,218,South
+O-1033,2024-02-12,2024-02-15,Sara Thomas,Technology,Laptop,HP Pavilion,1010,5,-49,North
+O-1034,2024-01-13,2024-01-14,Sara Thomas,Technology,Laptop,Dell Inspiron,166,3,126,North
+O-1035,2024-01-11,2024-01-12,David Kim,Office Supplies,Pen,Ball Pen Pack,243,5,91,West
+O-1036,2024-02-14,2024-02-18,Emily Clark,Technology,Phone,Samsung S22,1105,1,237,North
+O-1037,2024-01-03,2024-01-06,Maria Lopez,Technology,Headphones,Sony WH-1000XM5,108,4,185,South
+O-1038,2024-01-04,2024-01-08,David Kim,Office Supplies,Paper,A4 Paper Ream,101,5,72,North
+O-1039,2024-02-23,2024-02-27,John Miller,Furniture,Table,Office Table,889,3,141,North
+O-1040,2024-01-20,2024-01-25,Sara Thomas,Technology,Laptop,Dell Inspiron,597,3,67,North
+O-1041,2024-02-19,2024-02-20,Maria Lopez,Furniture,Chair,Wooden Chair,1382,2,229,West
+O-1042,2024-01-17,2024-01-20,Emily Clark,Technology,Phone,iPhone 14,740,1,152,West
+O-1043,2024-01-29,2024-02-01,Maria Lopez,Furniture,Table,Study Table,1352,3,234,South
+O-1044,2024-01-12,2024-01-15,David Kim,Technology,Laptop,HP Pavilion,1224,5,-6,East
+O-1045,2024-01-04,2024-01-09,Emily Clark,Technology,Tablet,iPad Mini,1424,4,-32,South
+O-1046,2024-02-13,2024-02-14,John Miller,Furniture,Table,Office Table,582,4,18,West
+O-1047,2024-02-12,2024-02-13,Sara Thomas,Technology,Headphones,Sony WH-1000XM5,496,4,15,South
+O-1048,2024-02-21,2024-02-26,Sara Thomas,Furniture,Sofa,Recliner Sofa,1477,2,110,North
+O-1049,2024-02-13,2024-02-14,John Miller,Furniture,Sofa,Recliner Sofa,711,3,179,South
+O-1050,2024-02-06,2024-02-08,David Kim,Technology,Laptop,HP Pavilion,818,1,22,South
+O-1051,2024-01-15,2024-01-20,Alex Roy,Technology,Tablet,iPad Mini,1388,1,230,West
+O-1052,2024-02-16,2024-02-18,Maria Lopez,Technology,Tablet,iPad Mini,684,3,44,West
+O-1053,2024-01-17,2024-01-19,Sara Thomas,Furniture,Table,Office Table,74,2,81,West
+O-1054,2024-02-21,2024-02-24,Maria Lopez,Furniture,Cabinet,File Cabinet,1218,2,21,East
+O-1055,2024-01-01,2024-01-05,Alex Roy,Technology,Laptop,HP Pavilion,740,5,-14,East
+O-1056,2024-01-10,2024-01-11,Sara Thomas,Technology,Headphones,Sony WH-1000XM5,464,5,184,South
+O-1057,2024-01-18,2024-01-21,Sara Thomas,Office Supplies,Pen,Ball Pen Pack,227,1,163,North
+O-1058,2024-01-12,2024-01-15,Alex Roy,Furniture,Sofa,3-Seater Sofa,785,3,50,East
+O-1059,2024-01-04,2024-01-07,Maria Lopez,Office Supplies,Paper,A4 Paper Ream,492,3,155,South
+O-1060,2024-01-10,2024-01-15,David Kim,Office Supplies,Stapler,Heavy Stapler,1394,5,-18,North
+O-1061,2024-01-28,2024-01-30,Alex Roy,Technology,Headphones,Sony WH-1000XM5,1133,5,210,East
+O-1062,2024-02-27,2024-03-03,Alex Roy,Office Supplies,Stapler,Heavy Stapler,1368,4,50,North
+O-1063,2024-02-16,2024-02-17,John Miller,Furniture,Table,Office Table,576,1,74,South
+O-1064,2024-02-10,2024-02-11,Emily Clark,Office Supplies,Paper,A4 Paper Ream,1450,5,212,West
+O-1065,2024-02-12,2024-02-15,Maria Lopez,Furniture,Sofa,Recliner Sofa,552,3,-16,East
+O-1066,2024-02-12,2024-02-17,Alex Roy,Furniture,Cabinet,File Cabinet,356,5,202,South
+O-1067,2024-01-26,2024-01-30,Alex Roy,Furniture,Cabinet,File Cabinet,749,3,33,North
+O-1068,2024-01-24,2024-01-28,Emily Clark,Office Supplies,Stapler,Heavy Stapler,171,2,170,East
+O-1069,2024-02-24,2024-02-26,Alex Roy,Technology,Laptop,Dell Inspiron,763,4,-10,North
+O-1070,2024-02-03,2024-02-07,Maria Lopez,Office Supplies,Notebook,Spiral Notebook,747,4,176,East
+O-1071,2024-01-24,2024-01-27,Maria Lopez,Technology,Tablet,iPad Mini,295,3,-25,South
+O-1072,2024-01-18,2024-01-22,Emily Clark,Technology,Laptop,Dell Inspiron,572,4,154,North
+O-1073,2024-01-26,2024-01-28,Emily Clark,Technology,Monitor,"Dell 24"" Monitor",1405,5,134,West
+O-1074,2024-02-03,2024-02-07,Alex Roy,Office Supplies,Notebook,Spiral Notebook,643,4,13,West
+O-1075,2024-01-26,2024-01-28,David Kim,Office Supplies,Paper,A4 Paper Ream,1444,2,40,East
+O-1076,2024-01-18,2024-01-23,Alex Roy,Furniture,Chair,Wooden Chair,1431,4,-18,South
+O-1077,2024-01-11,2024-01-13,Emily Clark,Technology,Tablet,Samsung Tab S9,864,4,115,North
+O-1078,2024-02-21,2024-02-26,Maria Lopez,Furniture,Table,Study Table,1221,2,144,West
+O-1079,2024-01-11,2024-01-16,Alex Roy,Technology,Phone,iPhone 14,493,2,114,South
+O-1080,2024-02-05,2024-02-10,Emily Clark,Technology,Laptop,Dell Inspiron,115,4,135,West
+O-1081,2024-01-06,2024-01-07,Emily Clark,Furniture,Table,Office Table,1096,3,118,North
+O-1082,2024-01-06,2024-01-07,Maria Lopez,Technology,Monitor,"Dell 24"" Monitor",367,1,204,East
+O-1083,2024-01-28,2024-01-31,David Kim,Technology,Headphones,Sony WH-1000XM5,1141,4,132,South
+O-1084,2024-02-10,2024-02-15,John Miller,Furniture,Cabinet,File Cabinet,1064,3,85,South
+O-1085,2024-02-15,2024-02-17,Sara Thomas,Office Supplies,Paper,A4 Paper Ream,1020,1,57,North
+O-1086,2024-01-05,2024-01-09,Emily Clark,Office Supplies,Pen,Gel Pen Pack,1229,4,114,West
+O-1087,2024-01-13,2024-01-17,Emily Clark,Furniture,Chair,Office Chair,1184,3,148,North
+O-1088,2024-01-24,2024-01-27,David Kim,Technology,Monitor,"Dell 24"" Monitor",1184,2,-13,South
+O-1089,2024-02-10,2024-02-15,David Kim,Office Supplies,Pen,Gel Pen Pack,626,5,-35,East
+O-1090,2024-02-20,2024-02-22,Alex Roy,Furniture,Sofa,Recliner Sofa,689,3,-6,East
+O-1091,2024-02-01,2024-02-05,Sara Thomas,Furniture,Sofa,3-Seater Sofa,808,3,227,East
+O-1092,2024-02-03,2024-02-07,Alex Roy,Furniture,Table,Office Table,111,4,5,South
+O-1093,2024-02-13,2024-02-14,John Miller,Office Supplies,Paper,A4 Paper Ream,679,5,-45,South
+O-1094,2024-02-12,2024-02-13,Emily Clark,Furniture,Sofa,Recliner Sofa,695,2,5,South
+O-1095,2024-02-16,2024-02-21,David Kim,Office Supplies,Stapler,Heavy Stapler,335,4,40,West
+O-1096,2024-01-10,2024-01-13,John Miller,Technology,Phone,Samsung S22,846,1,29,East
+O-1097,2024-01-29,2024-02-01,David Kim,Technology,Tablet,Samsung Tab S9,112,4,218,East
+O-1098,2024-01-29,2024-02-03,John Miller,Furniture,Sofa,3-Seater Sofa,437,5,223,South
+O-1099,2024-01-28,2024-02-01,John Miller,Technology,Phone,iPhone 14,1478,3,73,East
+O-1100,2024-01-16,2024-01-19,Maria Lopez,Technology,Tablet,Samsung Tab S9,944,5,210,East
